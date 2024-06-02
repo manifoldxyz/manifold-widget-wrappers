@@ -266,4 +266,8 @@ export type RestrictedTokenWidgetDataAttributes = {
   address: string;
 };
 
+export type WalletIdentityWidgetDataAttributes = {
+  wallet: string;
+};
+
 export type WidgetType = keyof typeof widgetConfig;

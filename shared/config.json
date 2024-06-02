@@ -16,7 +16,12 @@
   },
   "restrictedToken": {
     "defaultVersion": "0.1.0",
-    "javascriptSrc": "https://restrictedtoken.manifoldxyz.dev/{{VERSION}}/restrictedtoken.umd.min.js",
-    "cssSrc": "https://restrictedtoken.manifoldxyz.dev/{{VERSION}}/restrictedtoken.css"
+    "javascriptSrc": "https://restrictedtoken.manifoldxyz.dev/{{VERSION}}/restrictedToken.umd.min.js",
+    "cssSrc": "https://restrictedtoken.manifoldxyz.dev/{{VERSION}}/restrictedToken.css"
+  },
+  "walletIdentity": {
+    "defaultVersion": "2.1.0",
+    "javascriptSrc": "https://identity.manifoldxyz.dev/{{VERSION}}/walletIdentity.umd.min.js",
+    "cssSrc": "https://identity.manifoldxyz.dev/{{VERSION}}/walletIdentity.css"
   }
 }
